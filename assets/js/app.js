@@ -1,4 +1,4 @@
-$( function(){
+$( () =>{
   var screenVal = $("input:text");
 
   $("input:button").on("click", function(){
